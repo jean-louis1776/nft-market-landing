@@ -4,6 +4,24 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #4a1ccc;
+    border-radius: 4px;
+}
+
+body {
+    user-select: none;
+}
+
 .banner {
     background: url("./assets/banner.svg");
     background-size: cover;
