@@ -1,6 +1,6 @@
 # NFT Marketplace - Showcase
 
-[NFT Showcase](https://i.ibb.co/XSXcYsy/image.png)
+[!NFT Showcase](https://i.ibb.co/XSXcYsy/image.png)
 
 This is a code repository for a landing page for a mobile application, the source code of which is [HERE](https://github.com/jean-louis1776/nft-market-react-native).
 
